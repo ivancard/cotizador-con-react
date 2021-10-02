@@ -1,2 +1,2 @@
-- Cotizador de prestamos
--- Usando React
+# Cotizador de prestamos
+## Usando React
